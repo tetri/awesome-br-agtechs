@@ -254,3 +254,65 @@ Diretório de Agtechs
 | Meltech | meltech.com.br | Recife/PE |
 | Pluginbot | pluginbot.ai | São Paulo/SP |
 | Verde Telecom | linkedin.com/company/verdetelecom | São Paulo/SP |
+## Conteúdo, Educação, Mídia Social
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| Abraseda | facebook.com/Abraseda | Londrina/PR |
+| Ag.In | agin.agr.br | Uberlândia/MG |
+| Agricultura Simples | agriculturasimples.com.br | Curitiba/PR |
+| AgriLearning | agrilearning.com.br | Ribeirão Preto/SP |
+| Agripoint | agripoint.com.br | Piracicaba/SP |
+| Agrischool | agrischool.com.br | Porto Alegre/RS |
+| AgroAdvance | agroadvance.com.br | Piracicaba/SP |
+| AgroInsight | agroinsight.com.br | Luís Eduardo Magalhães/BA |
+| Agromic | agromic.com.br | Piracicaba/SP |
+| Agronews | agronewsbrasil.com.br | Cuiabá/MT |
+| AgroSchool | agroschool.com.br | Uberlândia/MG |
+| Agrotrust | agrotrust.wixsite.com/agrotrust | Londrina/PR |
+| Alimentares | alimentares.com | Santo André/SP |
+| APagri | apagri.com.br | Piracicaba/SP |
+| Beefpoint | beefpoint.com.br | Piracicaba/SP |
+| Biotec do Brasil | movbiotecbrasil.com | Goiânia/GO |
+| Brasbiotec | brasbiotec.com | Rio de Janeiro/RJ |
+| CTAA - Centro de Tecnologia Avançada em Aronegócio | ctaa.agr.br | Curitiba/PR |
+| Datagro Markets | datagro.com/datagro-markets | Barueri/SP |
+| Divina Dieta | divinadieta.org.br | São Paulo/SP |
+| Doutor Agro | doutoragro.com | Santos/SP |
+| Dr. Cana | drcana.com.br | Ribeirão Preto/SP |
+| Droneng | droneng.com.br | Presidente Prudente/SP |
+| Elevagro | elevagro.com | Porto Alegre/RS |
+| ensistec | ensistec.com.br | São Paulo/SP |
+| Escola Agro | escolaagro.com.br | Campo Novo do Parecis/MT |
+| FoodPass | foodpass.com.br | São Paulo/SP |
+| G&Q Agronegócio | gqauditoria.com | Volta Redonda/RJ |
+| ILergic - Saúde além do Rótulo | ilergic.com | Lages/SC |
+| Jetfarm | facebook.com/Jetfarm.com.br | Uberlândia/MG |
+| Keeps | keeps.com.br | Florianópolis/SC |
+| Life Biological Control (Pragas) | pragas.com.br | São Paulo/SP |
+| ManejeBem | manejebem.com.br | Biguaçu/SC |
+| MeuJardim | meujardim.com.br | Franca/SP |
+| Milpa | milpaconsultoria.com | Piracicaba/SP |
+| Minas RFID | minasrfid.com.br | Belo Horizonte/MG |
+| My Farm Agro | myfarmagro.com.br | Cuiabá/MT |
+| N2BBrasil | n2bbrasil.com | São Paulo/SP |
+| Nutrisoft | nutrisoft.com.br | São Paulo/SP |
+| Plataforma Orgânica | facebook.com/plataforma.organica | Rio Claro/SP |
+| Portal do Agronegócio | portaldoagronegocio.com.br | Uberaba/MG |
+| Quintal Orgânico | instagram.com/oquintalorganico | Cordeirópolis/SP |
+| Realize Hub | realizehub.com | Curitiba/PR |
+| Rehagro | rehagro.com.br/site | Belo Horizonte/MG |
+| Revista dos Vegetarianos | revistavegetarianos.com.br | São Paulo/SP |
+| Revista Orgânicos | facebook.com/Revistaorganicos | São Paulo/SP |
+| RuralCentro | ruralcentro.com.br | Campo Grande/MS |
+| Salt Ambiental | saltambiental.com.br | São Paulo/SP |
+| Smart Agri | smart.agr.br | Paraíso do Tocantins/TO |
+| Sollo Agro | solloagro.com.br | Piracicaba/SP |
+| STC Simuladores | stcsimulador.com.br | São José dos Campos/SP |
+| The Green Hub | thegreenhub.com.br | Salvador/BA |
+| Tuxtu | tuxtu.com.br | Macapá/AP |
+| VacaLabs | facebook.com/pg/vacalabs | Itanhandu/MG |
+| Valornovo | valornovo.com | Cravinhos/SP |
+| Veteduka | veteduka.com.br | Curitiba/PR |
+| werkey | werkey.co | Piracicaba/SP |
+| YouAgro | youagro.com | Campinas/SP |
