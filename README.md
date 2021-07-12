@@ -241,5 +241,16 @@ Diretório de Agtechs
 
 | Agtech | URL | Cidade/UF |
 |--|--|--|
-| GeoApis | geoapis.tech | Piracicaba/SP |
 | Agrobee | agrobee.net | Ribeirão Preto/SP |
+| GeoApis | geoapis.tech | Piracicaba/SP |
+
+## Conectividade e Telecomunicação
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| Becon | becon.com.br | Joinville/SC |
+| BST Networks | bstnetworks.com.br | Curitiba/PR |
+| Global Press | globalpress.com.br | Jaguariaíva/PR |
+| Meltech | meltech.com.br | Recife/PE |
+| Pluginbot | pluginbot.ai | São Paulo/SP |
+| Verde Telecom | linkedin.com/company/verdetelecom | São Paulo/SP |
