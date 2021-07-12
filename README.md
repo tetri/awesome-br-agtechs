@@ -84,3 +84,53 @@
 | Terra Magna | terramagna.com.br | São José dos Campos/SP |
 | Terralogs | terralogs.com.br | São Paulo/SP |
 | Verde rural | verderural.com.br | Londrina/PR |
+## Fertilizantes, Inoculantes e Nutrição Vegetal
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| Agrivalle | agrivalle.com.br | Salto/SP |
+| Agro 100 | agro100.com.br | Londrina/PR |
+| Agropro | nutricaodeplantas.com.br | Ponta Grossa/PR |
+| Aloe Fértil Brasil | aloefertilbrasil.com.br | Santa Cruz do Rio Pardo/SP |
+| Amazon Agrotech | facebook.com/amazonagrotec | Belém/PA |
+| Argilos | argilos.com.br | São Paulo/SP |
+| Axihum Fertilizantes | axihum.com.br | Rincão/SP |
+| Biodiversita | biodiversita.com.br | Campinas/SP |
+| Biosolvit | biosolvit.com | Barra Mansa/RJ |
+| Biotech Agro | biotechagro.com.br | Ribeirão Preto/SP |
+| Biotecland | biotecland.com | Luziânia/GO |
+| Bioworldtec | bioworldtec.com.br | Santo André/SP |
+| C & L Biotech | clbiotech.com.br/home | Piracicaba/SP |
+| CampoRico | camporico.com.br | São Paulo/SP |
+| Cia das Algas (Netuno) | ciadasalgas.com.br | Traíri/CE |
+| CiaCamp | ciacamp.agr.br | Cordeirópolis/SP |
+| Dana Agro | danaagro.com | Tarumã/SP |
+| Dextin Solucoes ambientais | dextin.com.br | Rio de Janeiro/RJ |
+| Ecodefense | ecodefense.com.br | Toledo/PR |
+| FastAgro | fastagro.com.br | Rondonópolis/MT |
+| FertGel | linkedin.com/in/adriel-bortolinb587928b | São Carlos/SP |
+| Fertile Agrosciences | fertileagro.com | Jaboticabal/SP |
+| Georaiz | georaizsolucoesamb.wixsite.com/georaiz | Salvador/BA |
+| Ibiré | ibire.com.br | São Paulo/SP |
+| INBC | inbcgroup.com.br | Palhoça/SC |
+| Inocular Soluções Biotecnológicas | inocular-solucoesbiotecnologicas.negocio.site | Lucas do Rio Verde/MT |
+| Itatijuca | bioagrotech.com.br | São Paulo/SP |
+| Jardim Bonito | jardimbonito.com.br | São Paulo/SP |
+| Krilltech Nanotecnologia Agro | krilltech.com.br | São Paulo/SP |
+| Massari | massari.com.br | Salto de Pirapora/SP |
+| Microgeo | microgeo.com.br | Limeira/SP |
+| Novatero BioAg | novatero.com.br | Joinville/SC |
+| Omega Agro | omegaagro.com.br | Canoas/RS |
+| Openeem | openeem.life | São Paulo/SP |
+| OrganoGran | organogran.com.br | Paranoá/DF |
+| Pilar | pilaragroecologico.com.br | Bom Retiro/SC |
+| Probiom | probiom.com.br | Campinas/SP |
+| Revbio | linkedin.com/company/revbio | Paulínia/SP |
+| SelenoLife | selenolife.com.br | São Paulo/SP |
+| Solo Sapiens | solosapiens.com.br | Bragança Paulista/SP |
+| Sumabio Biocomposto para plantas | instagram.com/amazonagrotech | Belém/PA |
+| Superbac | superbac.com.br | Cotia/SP |
+| Tns Nanotecnologia | tnsolution.com.br | Florianópolis/SC |
+| Vital Force | vitalforce.com.br | Barretos/SP |
+| Vittia Fertilizantes e Biologicos | vittia.com.br | São Joaquim da Barra/SP |
+| YBY Inovações Biotecnológicas | pb.programacentelha.com.br/es1/empresa/yby-inovacoesbiotecnologicas | João Pessoa/PB |
