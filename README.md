@@ -133,4 +133,25 @@
 | Tns Nanotecnologia | tnsolution.com.br | Florianópolis/SC |
 | Vital Force | vitalforce.com.br | Barretos/SP |
 | Vittia Fertilizantes e Biologicos | vittia.com.br | São Joaquim da Barra/SP |
-| YBY Inovações Biotecnológicas | pb.programacentelha.com.br/es1/empresa/yby-inovacoesbiotecnologicas | João Pessoa/PB |
+| YBY Inovações Biotecnológicas | pb.programacentelha.com.br/es1/empresa/yby-inovacoesbiotecnologicas | João Pessoa/PB |## Genômica e Reprodução Animal
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| Agropartners | agropartnersconsulting.com | Araçatuba/SP |
+| B.tools | btools.agr.br | Videira/SC |
+| Biomin Biotecnologia | biomin.com.br | Divinópolis/MG |
+| Cellen | cellen.com.br | Rio de Janeiro/RJ |
+| Evolutta Agro | evolutta-agro.com | Ribeirão Preto/SP |
+| FastBio | fastbio.com.br | Ribeirão Preto/SP |
+| Gentros | gentros.com.br | Paulínia/SP |
+| iBiotech | cietec.org.br/project/ibiotech | São Paulo/SP |
+| Inprenha | inprenha.com.br | Jaboticabal/SP |
+| Invitra | invitra.com.br | Ribeirão Preto/SP |
+| Kimera Biotecnologia | kimerabiotecnologia.com | Ribeirão Preto/SP |
+| Krom (Cotton Droplet) | krom.com.br/cotton.html | São Paulo/SP |
+| MetaQuantiON | metaquantion.com | Piracicaba/SP |
+| Plate Form Biotecnologia | esalqtec.com.br/site/atuantena-area-de-biotecnologia-aplate-form-biotechnology-iniciasua-pre-incubacao-na-esalqtec | Piracicaba/SP |
+| Regenera Stem Cells | regeneravet.com.br | Campinas/SP |
+| RG Genética | rggenetica.com.br | Água Boa/MT |
+| rheabiotech | rheabiotech.com.br | Campinas/SP |
+| WTA | wtavet.com.br | Cravinhos/SP |
