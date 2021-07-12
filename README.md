@@ -303,3 +303,40 @@ Diretório de Agtechs
 | Veteduka | https://veteduka.com.br | Curitiba/PR |
 | werkey | https://werkey.co | Piracicaba/SP |
 | YouAgro | https://youagro.com | Campinas/SP |
+
+## Controle Biológico e Manejo Integrado de Pragas
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| AGRIBELA | https://agribela.com.br | Londrina/PR |
+| Agrientech | https://agrientech.com | São Carlos/SP |
+| Agrize | https://agrize.com.br | Vila Nova Joinville/SC |
+| Agroneural | https://agroneural.com | Brasília/DF |
+| Ballagro | https://ballagro.com.br | Bom Jesus dos Perdões/SP |
+| Beas | https://beasstartup.com | Ouro Preto/MG |
+| Bio Controle | https://biocontrole.com.br | Indaiatuba/SP |
+| BioIn | https://bioinagro.com.br | Porto Alegre/RS |
+| BioLysi Soluções Biológicas | https://instagram.com/biolysi | Londrina/PR |
+| Blue Tecnologias E Participações Empresariais | https://bluetecnologias.com.br | Formosa/GO |
+| BR3 Agrobiotecnologia | https://br3.ind.br | São Paulo/SP |
+| Colly Química | https://collyquimica.com.br | Capivari/SP |
+| Diagneasy | https://penseagro.paniclobster.com/teams/20 | Curitiba/PR |
+| Dillon | https://dillonbio.com.br | Caxias do Sul/RS |
+| Droptec | https://facebook.com/Droptecnologia | Chapecó/SC |
+| Gênica | https://genica.com.br | Piracicaba/SP |
+| Homeopatia Rural | https://homeopatiarural.com | Jaú/SP |
+| Ideelab | https://ideelab.com.br | Piracicaba/SP |
+| Innovatis | https://innovatisbio.com | Taboão da Serra/SP |
+| Isca Tecnologias | https://isca.com.br | Ijuí/RS |
+| JB Biotecnologia | https://jbbiotecnologia.com.br | Paraopeba/MG |
+| Oga | https://ogawabiocycles.com | São Paulo/SP |
+| Partamon | https://linkedin.com/company/partamon | Pelotas/RS |
+| Pragas.Com | https://pragas.com.vc | Piracicaba/SP |
+| Promip | https://promip.agr.br | Limeira/SP |
+| rizoflora | https://rizoflora.com.br | Viçosa/MG |
+| Simbiose | https://simbiose-agro.com.br | Cruz Alta/RS |
+| Smartbreeder | https://smartbreeder.com.br | Piracicaba/SP |
+| Solubio | https://solubio.agr.br | Gurupi/TO |
+| Usina Biologica | https://usinabiologica.com.br | Londrina/PR |
+| Vector Control | https://vectorcontrol.agr.br | Vinhedo/SP |
+| Zasso | https://zasso.com.br | Indaiatuba/SP |
