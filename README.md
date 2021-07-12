@@ -133,7 +133,9 @@
 | Tns Nanotecnologia | tnsolution.com.br | Florianópolis/SC |
 | Vital Force | vitalforce.com.br | Barretos/SP |
 | Vittia Fertilizantes e Biologicos | vittia.com.br | São Joaquim da Barra/SP |
-| YBY Inovações Biotecnológicas | pb.programacentelha.com.br/es1/empresa/yby-inovacoesbiotecnologicas | João Pessoa/PB |## Genômica e Reprodução Animal
+| YBY Inovações Biotecnológicas | pb.programacentelha.com.br/es1/empresa/yby-inovacoesbiotecnologicas | João Pessoa/PB |
+
+## Genômica e Reprodução Animal
 
 | Agtech | URL | Cidade/UF |
 |--|--|--|
@@ -155,3 +157,25 @@
 | RG Genética | rggenetica.com.br | Água Boa/MT |
 | rheabiotech | rheabiotech.com.br | Campinas/SP |
 | WTA | wtavet.com.br | Cravinhos/SP |
+
+## Marketplace de Insumos para o Agronegócio
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| Agrifacil | fb.com/agrifacil.ltda | Santa Cruz do Sul/RS |
+| Agro Vant | facebook.com/pages/Agrovant-Com%C3%A9rcio-de-Produtos-Agr%C3%ADcolas-Ltda/162487720811584 | Jaboticabal/SP |
+| agro2business | agro2business.com | Taboão da Serra/SP |
+| Agroaki | agroaki.com.br | Lavras/MG |
+| Agroper | agroper.com.br | Lajeado/RS |
+| AhGRO | ahgro.com.br | Campinas/SP |
+| Alfakit | alfakit.com.br | Florianópolis/SC |
+| AMD Agro | amdagro.com.br | Tangará da Serra/MT |
+| AquaIn /Aqua Insumos | aquainsumos.com.br | Londrina/PR |
+| Colhesul Peças Agrícolas | colhesul.com.br | Independência/RS |
+| e.agro | eagrobrasil.com | Registro/SP |
+| Insumo Agrícola | insumoagricola.com.br | São Paulo/SP |
+| LeveAgro | leveagro.com | São Paulo/SP |
+| Negocia Agro | negociaagro.com.br | Poços de Caldas/MG |
+| npk soluções | npksolucoes.com.br | São Paulo/SP |
+| Produtor Agro | produtoragro.com.br | São Paulo/SP |
+| Solo Sagrado | solosagrado.com | Mogi Guaçu/SP |
