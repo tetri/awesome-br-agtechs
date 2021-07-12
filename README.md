@@ -4,41 +4,41 @@ Diretório de Agtechs
 
 ## Análise laboratorial
 
-| Agtech | URL | Cidade/UF |
+| Agtech | Cidade/UF |
 |--|--|--|
-| Agrorobótica | agrorobotica.com.br | São Carlos/SP |
-| Agrosafety | agrosafety.com.br | Piracicaba/SP |
-| Alsukkar | alsukkar.com.br | Ribeirão Preto/SP |
-| Aquaplant | acquaplant.com.br | Joinville/SC |
-| Bioagrocert Soluções Agrícolas | bioagrocert.com.br | Barretos/SP |
-| Biolinker | biolinker.tech | São Paulo/SP |
-| Bionexus | bionexus.com.br | Chapecó/SC |
-| C4 Biotecnologia | c4biotecnologia.com.br | Lençóis Paulista/SP |
-| Cellco Biotec do Brasil LTDA | cellco.com.br | São Carlos/SP |
-| Crop | cropbiotec.com | Botucatu/SP |
-| DGLab | dglab.com.br | Ribeirão Preto/SP |
-| ECO Diagnóstica | ecodiagnosticavet.com.br | Nova Lima/MG |
-| Fine Instrument Technology | fitinstrument.com | São Carlos/SP |
-| Herbae | herbae.com.br | Jaboticabal/SP |
-| Intecso | intecso.com.br | Curitiba/PR |
-| Ivare | ivare.com.br | Uberlândia/MG |
-| Macofren tecnologias | macofren.com | Brasília/DF |
-| Merkato | merkatobrasil.com | Limeira/SP |
-| Microbióticos | microbioticos.com.br | Campinas/SP |
-| Monitoragua | saadrodrigues.wixsite.com/website | Tremembé/SP |
-| Myrtus Plant Biotech Ltda | myrtus.com.br | São Paulo/SP |
-| Nanocore | nanocore.com.br | Campinas/SP |
-| nanoscoping | nanoscoping.com.br | Florianópolis/SC |
-| Neoprospecta | neoprospecta.com | Florianópolis/SC |
-| OnFarm | onfarm.com.br | Pirassununga/SP |
-| PanDNA | linkedin.com/in/ana-durvalinabomtorin-71127783 | Piracicaba/SP |
-| PrevetSanidadeAquícola | prevet.com.br | Jaboticabal/SP |
-| Scheme Lab | schemelab.com | São Paulo/SP |
-| SpecLab | speclab.com.br | Sumaré/SP |
-| Tecam | tecam.com.br | São Paulo/SP |
-| Tecnicontrol | tecnicontrol.ind.br | Piracicaba/SP |
-| Vikings Hopyard | facebook.com/VikingHopyard | Holambra/SP |
-| Zeit | zeitbr.com.br | Santa Maria/RS |
+| [Agrorobótica](https://agrorobotica.com.br) | São Carlos/SP |
+| [Agrosafety](https://agrosafety.com.br) | Piracicaba/SP |
+| [Alsukkar](https://alsukkar.com.br) | Ribeirão Preto/SP |
+| [Aquaplant](https://acquaplant.com.br) | Joinville/SC |
+| [Bioagrocert Soluções Agrícolas](https://bioagrocert.com.br) | Barretos/SP |
+| [Biolinker](https://biolinker.tech) | São Paulo/SP |
+| [Bionexus](https://bionexus.com.br) | Chapecó/SC |
+| [C4 Biotecnologia](https://c4biotecnologia.com.br) | Lençóis Paulista/SP |
+| [Cellco Biotec do Brasil LTDA](https://cellco.com.br) | São Carlos/SP |
+| [Crop](https://cropbiotec.com) | Botucatu/SP |
+| [DGLab](https://dglab.com.br) | Ribeirão Preto/SP |
+| [ECO Diagnóstica](https://ecodiagnosticavet.com.br) | Nova Lima/MG |
+| [Fine Instrument Technology](https://fitinstrument.com) | São Carlos/SP |
+| [Herbae](https://herbae.com.br) | Jaboticabal/SP |
+| [Intecso](https://intecso.com.br) | Curitiba/PR |
+| [Ivare](https://ivare.com.br) | Uberlândia/MG |
+| [Macofren tecnologias](https://macofren.com) | Brasília/DF |
+| [Merkato](https://merkatobrasil.com) | Limeira/SP |
+| [Microbióticos](https://microbioticos.com.br) | Campinas/SP |
+| [Monitoragua](https://saadrodrigues.wixsite.com/website) | Tremembé/SP |
+| [Myrtus Plant Biotech Ltda](https://myrtus.com.br) | São Paulo/SP |
+| [Nanocore](https://nanocore.com.br) | Campinas/SP |
+| [nanoscoping](https://nanoscoping.com.br) | Florianópolis/SC |
+| [Neoprospecta](https://neoprospecta.com) | Florianópolis/SC |
+| [OnFarm](https://onfarm.com.br) | Pirassununga/SP |
+| [PanDNA](https://linkedin.com/in/ana-durvalinabomtorin-71127783) | Piracicaba/SP |
+| [PrevetSanidadeAquícola](https://prevet.com.br) | Jaboticabal/SP |
+| [Scheme Lab](https://schemelab.com) | São Paulo/SP |
+| [SpecLab](https://speclab.com.br) | Sumaré/SP |
+| [Tecam](https://tecam.com.br) | São Paulo/SP |
+| [Tecnicontrol](https://tecnicontrol.ind.br) | Piracicaba/SP |
+| [Vikings Hopyard](https://facebook.com/VikingHopyard) | Holambra/SP |
+| [Zeit](https://zeitbr.com.br) | Santa Maria/RS |
 
 ## Crédito, permuta, seguro, créditos de carbono e análise fiduciária
 
