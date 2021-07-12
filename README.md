@@ -5,7 +5,7 @@ Diretório de Agtechs
 ## Análise laboratorial
 
 | Agtech | Cidade/UF |
-|--|--|--|
+|--|--|
 | [Agrorobótica](https://agrorobotica.com.br) | São Carlos/SP |
 | [Agrosafety](https://agrosafety.com.br) | Piracicaba/SP |
 | [Alsukkar](https://alsukkar.com.br) | Ribeirão Preto/SP |
