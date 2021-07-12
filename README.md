@@ -1,4 +1,6 @@
-# Diretório de Agtechs no Segmento Antes da Fazenda
+Diretório de Agtechs
+
+# Antes da Fazenda
 
 ## Análise laboratorial
 
@@ -203,3 +205,41 @@
 | Vitafort | vitafort.com.br | Ribeirão Preto/SP |
 | Yes | yes.ind.br | Campinas/SP |
 | Ylive | ylive.com.br | São Paulo/SP |
+
+## Sementes, Mudas e Genômica Vegetal
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| ADWACannabis | adwacannabis.com.br | Viçosa/MG |
+| AgroFour | agrofoursc.com.br | Joinville/SC |
+| Bejo | bejo.com.br | Bragança Paulista/SP |
+| Bioclone | bioclone.com.br | Eusébio/CE |
+| Biome4all | biome4all.com.br | São Paulo/SP |
+| BPI | bpibiotecnologia.com.br | Botucatu/SP |
+| Brasil Agritest | brasilagritest.com | São Carlos/SP |
+| Demetra | demetraagronegocios.com.br | Toledo/PR |
+| Difusa Cultivares | orionparque.com/portfolioitem/difusa-cultivares | Lages/SC |
+| Dinastia Genética | linkedin.com/company/dinastiagen%C3%A9tica-ltda | Sertãozinho/SP |
+| DIOXD | dioxd.com | Luís Eduardo Magalhães/BA |
+| ekoating | ekoating.com | Curitiba/PR |
+| GoGenetic | gogenetic.com.br | Curitiba/PR |
+| Image pesquisas | imagepesquisas.com.br | Fortaleza/CE |
+| Lotan | startagro.agr.br/perfil-startagrocomo-a-lotan-esta-criandodefensivos-sustentaveis | São Paulo/SP |
+| Native Plant Technology | facebook.com/nativeptech | Piracicaba/SP |
+| Pangea biotec | pangeiabiotech.com | Campinas/SP |
+| PIRAÍ Sementes | pirai.com.br | Piracicaba/SP |
+| Plante Sempre | plantesempre.com.br | Chapecó/SC |
+| Pro-Clone | proclone.com.br | Holambra/SP |
+| Verdartis | verdartis.com.br | Ribeirão Preto/SP |
+| Verde Nativo | verdenativo.com.br | Bragança Paulista/SP |
+| Vertron | vertron.com.br | Londrina/PR |
+| Viveiro Nativo | viveironativo.com.br | Patos de Minas/MG |
+
+# Dentro da Fazenda
+
+## Apicultura e Polinização
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| GeoApis | geoapis.tech | Piracicaba/SP |
+| Agrobee | agrobee.net | Ribeirão Preto/SP |
