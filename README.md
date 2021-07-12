@@ -179,3 +179,27 @@
 | npk soluções | npksolucoes.com.br | São Paulo/SP |
 | Produtor Agro | produtoragro.com.br | São Paulo/SP |
 | Solo Sagrado | solosagrado.com | Mogi Guaçu/SP |
+
+## Nutrição e Saúde Animal
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| AgroForte | agroforte.ind.br | Biguaçu/SC |
+| Animal Flower | animalflower.com.br | São Paulo/SP |
+| Arenales Homeopatianimal | arenales.com.br | Presidente Prudente/SP |
+| Auster | austernutri.com.br | Hortolândia/SP |
+| Bio-Sano | wcsasistemas.com/empresas/Parana/35/bio-sano-industriade-produtos-farmacos-ltda-mebio-sano-tecnologia-em-saudeanimal.php | Toledo/PR |
+| Decoy | decoysmart.com | Ribeirão Preto/SP |
+| Farmacore | farmacore.com.br | Ribeirão Preto/SP |
+| GenoBiomas Biotecnologia | linkedin.com/company/genobiomas | São José dos Campos/SP |
+| Global Saúde Brasil | globalsaudebrasil.com.br | Rio de Janeiro/RJ |
+| Imeve | imeve.com.br | Jaboticabal/SP |
+| Insect Technologies Intech Brasil | linkedin.com/company/insecttechnologies-brasil | Uberlândia/MG |
+| Kayros | kayrosambiental.com.br | Paulínia/SP |
+| Pró.Campo Nutrição Animal | pcampo.com.br | Londrina/PR |
+| Salus | salusgroup.com.br | Santo Antônio de Posse/SP |
+| Symbiotec | icorpsbrasil.com.br/symbiotec | Piracicaba/SP |
+| Tecnoblock | tecnoblocknutri.com.br | Campo Grande/MS |
+| Vitafort | vitafort.com.br | Ribeirão Preto/SP |
+| Yes | yes.ind.br | Campinas/SP |
+| Ylive | ylive.com.br | São Paulo/SP |
