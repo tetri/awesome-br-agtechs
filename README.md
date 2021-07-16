@@ -926,7 +926,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Wolk Tecnologia](https://wolk.com.br) - Curitiba/PR
 * [Z2S](https://facebook.com/z2sbrasil) - Passo Fundo/RS
 
-# Lista de Agtechs no Segmento Depois da Fazenda
+# Depois da Fazenda
 
 ## Alimentos inovadores e novas tendências alimentares
 
@@ -1214,7 +1214,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Vih!](https://vihalimentos.com) - São Paulo/SP
 * [Vila Ervas](https://grupovilaervas.com.br) - Vila Velha/ES
 * [Villa Piva](https://villapiva.com.br) - Osasco/SP
-* [Vitalatte & Yorgus](https://yorgus.com.br) -;](https://vitalatte.com.br) - Valença/RJ
+* [Vitalatte & Yorgus](https://vitalatte.com.br) - Valença/RJ
 * [Vitalin](https://vitalin.com.br) - Jaraguá do Sul/SC
 * [Viva Mate](https://vivamatebrasil.com.br) - Ivaí/PR
 * [Vivaodia Lab Super Alimentos](https://organicosvivaodia.com.br) - Vitória/ES
