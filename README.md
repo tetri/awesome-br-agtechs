@@ -111,7 +111,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Dextin Solucoes ambientais](https://dextin.com.br) - Rio de Janeiro/RJ
 * [Ecodefense](https://ecodefense.com.br) - Toledo/PR
 * [FastAgro](https://fastagro.com.br) - Rondonópolis/MT
-* [FertGel](https://linkedin.com/in/adriel-bortolinb587928b - São Carlos/SP
+* [FertGel](https://linkedin.com/in/adriel-bortolinb587928b) - São Carlos/SP
 * [Fertile Agrosciences](https://fertileagro.com) - Jaboticabal/SP
 * [Georaiz](https://georaizsolucoesamb.wixsite.com/georaiz) - Salvador/BA
 * [Ibiré](https://ibire.com.br) - São Paulo/SP
@@ -185,7 +185,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Animal Flower](https://animalflower.com.br) - São Paulo/SP
 * [Arenales Homeopatianimal](https://arenales.com.br) - Presidente Prudente/SP
 * [Auster](https://austernutri.com.br) - Hortolândia/SP
-* [Bio](Sano) - https://wcsasistemas.com/empresas/Parana/35/bio-sano-industriade-produtos-farmacos-ltda-mebio-sano-tecnologia-em-saudeanimal.php - Toledo/PR
+* [Bio - Sano](https://wcsasistemas.com/empresas/Parana/35/bio-sano-industriade-produtos-farmacos-ltda-mebio-sano-tecnologia-em-saudeanimal.php) - Toledo/PR
 * [Decoy](https://decoysmart.com) - Ribeirão Preto/SP
 * [Farmacore](https://farmacore.com.br) - Ribeirão Preto/SP
 * [GenoBiomas Biotecnologia](https://linkedin.com/company/genobiomas) - São José dos Campos/SP
@@ -333,7 +333,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Pragas.Com](https://pragas.com.vc) - Piracicaba/SP
 * [Promip](https://promip.agr.br) - Limeira/SP
 * [rizoflora](https://rizoflora.com.br) - Viçosa/MG
-* [Simbiose](https://simbiose-agro.com.br - Cruz Alta/RS
+* [Simbiose](https://simbiose-agro.com.br) - Cruz Alta/RS
 * [Smartbreeder](https://smartbreeder.com.br) - Piracicaba/SP
 * [Solubio](https://solubio.agr.br) - Gurupi/TO
 * [Usina Biologica](https://usinabiologica.com.br) - Londrina/PR
@@ -382,7 +382,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Geaap](https://geaap.com.br) - Uberlândia/MG
 * [GeoDrones](https://geodrones.com.br) - São Paulo/SP
 * [Gertech Soluções Industriais Ltda](https://gertech.ind.br) - Chapecó/SC
-* [GND](https://gnd-br.com - São Paulo/SP
+* [GND](https://gnd-br.com) - São Paulo/SP
 * [Grupo Novo Olhar](https://gruponovoolhar.com) - Campo Grande/MS
 * [Horse Machine Implementos Agrícolas](https://horsemachine.negocio.site) - Criciúma/SC
 * [Horus Aeronaves](https://horusaeronaves.com) - Florianópolis/SC
@@ -403,7 +403,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Saci Soluções](https://sacisolucoes.com.br) - Santa Bárbara d’Oeste/SP
 * [Sar Drones](https://sardrones.com.br) - Ribeirão Preto/SP
 * [Seed Rain](https://linkedin.com/company/seedrain) - Rio de Janeiro/RJ
-* [Seive](https://seive.com.br Belo Horizonte/MG
+* [Seive](https://seive.com.br) Belo Horizonte/MG
 * [SF Geo - Sul Florestas](https://sulflorestas.com.br) - Lages/SC
 * [SkyAgri](https://skyagri.com.br) - Porto Alegre/RS
 * [Skydrones](https://skydrones.com.br) - Porto Alegre/RS
@@ -412,7 +412,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Tbit](https://tbit.com.br) - Lavras/MG
 * [Tecnodrones](https://tecnodrones.com.br) - Ponta Grossa/PR
 * [Tecnofacil](https://tecnofacil.foryou.digital) - Marília/SP
-* [TerraTecno](https://linkedin.com/company/terratecno---tecnologiasagr%C3%Adcolas - São Paulo/SP
+* [TerraTecno](https://linkedin.com/company/terratecno---tecnologiasagr%C3%Adcolas) - São Paulo/SP
 * [Topview Agricultura Inteligente](https://linkedin.com/company/topviewagro) - Chapecó/SC
 * [Velbrax Agro](https://velbrax.com) - Ribeirão Preto/SP
 * [Verde Drone](https://verdedrone.com) - Belo Horizonte/MG
@@ -457,7 +457,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Grupo Vitae](https://vitaebrasil.com.br) - Uberaba/MG
 * [Kemia Tratamento de Efluentes](https://kemia.com.br) - Chapecó/SC
 * [Recycle Solutions](https://recyclesolutions.co) - Petrolina/PE
-* [Residuall](https://residuall.com Belo) - Horizonte/MG
+* [Residuall](https://residuall.com) - Belo Horizonte/MG
 * [Residus](https://residus.com.br) - Cuiabá/MT
 * [RSU Brasil](https://rsubrasil.com.br) - São Paulo/SP
 * [Tec3geo](https://tec3geo.com.br) - São Paulo/SP
