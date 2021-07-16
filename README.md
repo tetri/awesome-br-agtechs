@@ -600,7 +600,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Granter](https://granter.com.br) - Florianópolis/SC
 * [Guiato](https://guiato.com.br) - São Paulo/SP
 * [IdealSis](https://idealsis.com.br) - Buritama/SP
-* [InCeres Desenvolvimento de Software e Processamento de Dados](https://S.A.) -](https://inceres.com.br) - Rio Das Pedras/SP
+* [InCeres Desenvolvimento de Software e Processamento de Dados S.A.](https://inceres.com.br) - Rio Das Pedras/SP
 * [InoArb](https://inoarb.azurewebsites.net) - São Paulo/SP
 * [InteCred (Implanta IT)](https://implantait.com.br) - Goiânia/GO
 * [IntelliAgri](https://intelliagri.com.br) - Piracicaba/SP
@@ -1353,7 +1353,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Mimic](https://linkedin.com/company/mimicbrasil) - São Paulo/SP
 * [SmartKitchens](https://smartkitchens.com.br) - Belo Horizonte/MG
 
-## Indústria e processamento de alimentos](https://4.0) -
+## Indústria e processamento de alimentos 4.0
 
 * [Ag-Solution](https://ag-solution.co) - Vargem Grande do Sul/SP
 * [Agapys](https://agapys.com) - Joinville/SC
@@ -1486,7 +1486,6 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 
 ## Mercearia on-line
 
-* [(https://menu.com.vc) -](https://menu.com.vc) - São Paulo/SP
 * [AgroPad](https://agropad.com.br) - Barueri/SP
 * [Bertolin](https://chacarabertolin.com.br) - Colombo/PR
 * [Cachaça Samanaú](https://cachacasamanau.com.br) - Natal/RN
@@ -1512,6 +1511,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Home Refill](https://homerefill.com.br) - São Paulo/SP
 * [Içougue](https://icougue.com) - São Paulo/SP
 * [Laszlo Aromatologia](https://emporiolaszlo.com.br) - Belo Horizonte/MG
+* [menu.com.vc](https://menu.com.vc) - São Paulo/SP
 * [Mercado Fresh](https://mercadofresh.com.br) - São Paulo/SP
 * [Minnis](https://minnis.com.br) - São Paulo/SP
 * [Natural Meat](https://naturalmeat.com.br) - São Paulo/SP
