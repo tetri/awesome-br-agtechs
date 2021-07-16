@@ -83,7 +83,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Radix Florestal](https://radixflorestal.com.br) - Brasília/DF
 * [Seedz](https://seedz.ag) - Belo Horizonte/MG
 * [Seges](https://facebook.com/seges.agro) - Rio de Janeiro/RJ
-* [Softfocus (Crédito Rural)]((https://softfocus.com.br) - Pato Branco/PR
+* [Softfocus (Crédito Rural)](https://softfocus.com.br) - Pato Branco/PR
 * [StartMeUp](https://startmeup.com.br) - São Paulo/SP
 * [Terra Magna](https://terramagna.com.br) - São José dos Campos/SP
 * [Terralogs](https://terralogs.com.br) - São Paulo/SP
@@ -116,7 +116,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Georaiz](https://georaizsolucoesamb.wixsite.com/georaiz) - Salvador/BA
 * [Ibiré](https://ibire.com.br) - São Paulo/SP
 * [INBC](https://inbcgroup.com.br) - Palhoça/SC
-* [Inocular Soluções Biotecnológicas](https://inocular-solucoesbiotecnologicas.negocio.site - Lucas do Rio Verde/MT
+* [Inocular Soluções Biotecnológicas](https://inocular-solucoesbiotecnologicas.negocio.site) - Lucas do Rio Verde/MT
 * [Itatijuca](https://bioagrotech.com.br) - São Paulo/SP
 * [Jardim Bonito](https://jardimbonito.com.br) - São Paulo/SP
 * [Krilltech Nanotecnologia Agro](https://krilltech.com.br) - São Paulo/SP
@@ -136,7 +136,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Tns Nanotecnologia](https://tnsolution.com.br) - Florianópolis/SC
 * [Vital Force](https://vitalforce.com.br) - Barretos/SP
 * [Vittia Fertilizantes e Biologicos](https://vittia.com.br) - São Joaquim da Barra/SP
-* [YBY Inovações Biotecnológicas](https://pb.programacentelha.com.br/es1/empresa/yby-inovacoesbiotecnologicas - João Pessoa/PB
+* [YBY Inovações Biotecnológicas](https://pb.programacentelha.com.br/es1/empresa/yby-inovacoesbiotecnologicas) - João Pessoa/PB
 
 ## Genômica e Reprodução Animal
 
@@ -144,7 +144,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [B.tools](https://btools.agr.br) - Videira/SC
 * [Biomin Biotecnologia](https://biomin.com.br) - Divinópolis/MG
 * [Cellen](https://cellen.com.br) - Rio de Janeiro/RJ
-* [Evolutta Agro](https://evolutta-agro.com - Ribeirão Preto/SP
+* [Evolutta Agro](https://evolutta-agro.com) - Ribeirão Preto/SP
 * [FastBio](https://fastbio.com.br) - Ribeirão Preto/SP
 * [Gentros](https://gentros.com.br) - Paulínia/SP
 * [iBiotech](https://cietec.org.br/project/ibiotech) - São Paulo/SP
@@ -153,7 +153,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Kimera Biotecnologia](https://kimerabiotecnologia.com) - Ribeirão Preto/SP
 * [Krom (Cotton Droplet)](https://krom.com.br/cotton.html) - São Paulo/SP
 * [MetaQuantiON](https://metaquantion.com) - Piracicaba/SP
-* [Plate Form Biotecnologia](https://www.esalqtec.com.br/site/atuante-na-area-de-biotecnologia-a-plate-form-biotechnology-inicia-sua-pre-incubacao-na-esalqtec/ - Piracicaba/SP
+* [Plate Form Biotecnologia](https://www.esalqtec.com.br/site/atuante-na-area-de-biotecnologia-a-plate-form-biotechnology-inicia-sua-pre-incubacao-na-esalqtec/) - Piracicaba/SP
 * [Regenera Stem Cells](https://regeneravet.com.br) - Campinas/SP
 * [RG Genética](https://rggenetica.com.br) - Água Boa/MT
 * [rheabiotech](https://rheabiotech.com.br) - Campinas/SP
@@ -162,7 +162,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 ## Marketplace de Insumos para o Agronegócio
 
 * [Agrifacil](https://fb.com/agrifacil.ltda) - Santa Cruz do Sul/RS
-* [Agro Vant](https://facebook.com/pages/Agrovant-Com%C3%A9rcio-de-Produtos-Agr%C3%ADcolas-Ltda/162487720811584 - Jaboticabal/SP
+* [Agro Vant](https://facebook.com/pages/Agrovant-Com%C3%A9rcio-de-Produtos-Agr%C3%ADcolas-Ltda/162487720811584) - Jaboticabal/SP
 * [agro2business](https://agro2business.com) - Taboão da Serra/SP
 * [Agroaki](https://agroaki.com.br) - Lavras/MG
 * [Agroper](https://agroper.com.br) - Lajeado/RS
@@ -191,7 +191,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [GenoBiomas Biotecnologia](https://linkedin.com/company/genobiomas) - São José dos Campos/SP
 * [Global Saúde Brasil](https://globalsaudebrasil.com.br) - Rio de Janeiro/RJ
 * [Imeve](https://imeve.com.br) - Jaboticabal/SP
-* [Insect Technologies Intech Brasil](https://linkedin.com/company/insecttechnologies-brasil - Uberlândia/MG
+* [Insect Technologies Intech Brasil](https://linkedin.com/company/insecttechnologies-brasil) - Uberlândia/MG
 * [Kayros](https://kayrosambiental.com.br) - Paulínia/SP
 * [Pró.Campo Nutrição Animal](https://pcampo.com.br) - Londrina/PR
 * [Salus](https://salusgroup.com.br) - Santo Antônio de Posse/SP
@@ -211,18 +211,18 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [BPI](https://bpibiotecnologia.com.br) - Botucatu/SP
 * [Brasil Agritest](https://brasilagritest.com) - São Carlos/SP
 * [Demetra](https://demetraagronegocios.com.br) - Toledo/PR
-* [Difusa Cultivares](https://orionparque.com/portfolioitem/difusa-cultivares - Lages/SC
-* [Dinastia Genética](https://linkedin.com/company/dinastiagen%C3%A9tica-ltda - Sertãozinho/SP
+* [Difusa Cultivares](https://orionparque.com/portfolioitem/difusa-cultivares) - Lages/SC
+* [Dinastia Genética](https://linkedin.com/company/dinastiagen%C3%A9tica-ltda) - Sertãozinho/SP
 * [DIOXD](https://dioxd.com) - Luís Eduardo Magalhães/BA
 * [ekoating](https://ekoating.com) - Curitiba/PR
 * [GoGenetic](https://gogenetic.com.br) - Curitiba/PR
 * [Image pesquisas](https://imagepesquisas.com.br) - Fortaleza/CE
-* [Lotan](https://startagro.agr.br/perfil-startagrocomo-a-lotan-esta-criandodefensivos-sustentaveis - São Paulo/SP
+* [Lotan](https://startagro.agr.br/perfil-startagrocomo-a-lotan-esta-criandodefensivos-sustentaveis) - São Paulo/SP
 * [Native Plant Technology](https://facebook.com/nativeptech) - Piracicaba/SP
 * [Pangea biotec](https://pangeiabiotech.com) - Campinas/SP
 * [PIRAÍ Sementes](https://pirai.com.br) - Piracicaba/SP
 * [Plante Sempre](https://plantesempre.com.br) - Chapecó/SC
-* [Pro](Clone) - https://proclone.com.br - Holambra/SP
+* [Pro - Clone](https://proclone.com.br) - Holambra/SP
 * [Verdartis](https://verdartis.com.br) - Ribeirão Preto/SP
 * [Verde Nativo](https://verdenativo.com.br) - Bragança Paulista/SP
 * [Vertron](https://vertron.com.br) - Londrina/PR
@@ -263,8 +263,8 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Beefpoint](https://beefpoint.com.br) - Piracicaba/SP
 * [Biotec do Brasil](https://movbiotecbrasil.com) - Goiânia/GO
 * [Brasbiotec](https://brasbiotec.com) - Rio de Janeiro/RJ
-* [CTAA](Centro de Tecnologia Avançada em Aronegócio) - https://ctaa.agr.br - Curitiba/PR
-* [Datagro Markets](https://datagro.com/datagro-markets - Barueri/SP
+* [CTAA (Centro de Tecnologia Avançada em Aronegócio)](https://ctaa.agr.br) - Curitiba/PR
+* [Datagro Markets](https://datagro.com/datagro-markets) - Barueri/SP
 * [Divina Dieta](https://divinadieta.org.br) - São Paulo/SP
 * [Doutor Agro](https://doutoragro.com) - Santos/SP
 * [Dr. Cana](https://drcana.com.br) - Ribeirão Preto/SP
@@ -274,7 +274,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Escola Agro](https://escolaagro.com.br) - Campo Novo do Parecis/MT
 * [FoodPass](https://foodpass.com.br) - São Paulo/SP
 * [G&Q Agronegócio](https://gqauditoria.com) - Volta Redonda/RJ
-* [ILergic](Saúde além do Rótulo) - https://ilergic.com - Lages/SC
+* [ILergic - Saúde além do Rótulo)](https://ilergic.com) - Lages/SC
 * [Jetfarm](https://facebook.com/Jetfarm.com.br) - Uberlândia/MG
 * [Keeps](https://keeps.com.br) - Florianópolis/SC
 * [Life Biological Control (Pragas)](https://pragas.com.br) - São Paulo/SP
@@ -373,12 +373,12 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [duo automation](https://duo.com.br) - Santa Bárbara d’Oeste/SP
 * [Eagle Power Tecnologia](https://facebook.com/eaglepowerdrones) - Cascavel/PR
 * [Enalta (Rex)](https://linkedin.com/company/enalta) - São Carlos/SP
-* [ENG](Soluções Tecnológicas LTDA) - ME - https://engtecnologia.com - Campo Grande/MS
+* [ENG - Soluções Tecnológicas LTDA - ME](https://engtecnologia.com) - Campo Grande/MS
 * [EPI cont](https://epicont.com) - Cambe/PR
 * [FieldPRO](https://fieldpro.com.br) - São Paulo/SP
 * [Fishtag](https://fishtag.com.br) - Mogi Guaçu/SP
 * [Fornari Industria](https://fornariindustria.com.br) - Concórdia/SC
-* [G](Drones) - https://g-drones.com.br - São Paulo/SP
+* [G-Drones](https://g-drones.com.br) - São Paulo/SP
 * [Geaap](https://geaap.com.br) - Uberlândia/MG
 * [GeoDrones](https://geodrones.com.br) - São Paulo/SP
 * [Gertech Soluções Industriais Ltda](https://gertech.ind.br) - Chapecó/SC
@@ -404,7 +404,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Sar Drones](https://sardrones.com.br) - Ribeirão Preto/SP
 * [Seed Rain](https://linkedin.com/company/seedrain) - Rio de Janeiro/RJ
 * [Seive](https://seive.com.br Belo Horizonte/MG
-* [SF Geo](Sul Florestas) - https://sulflorestas.com.br - Lages/SC
+* [SF Geo - Sul Florestas](https://sulflorestas.com.br) - Lages/SC
 * [SkyAgri](https://skyagri.com.br) - Porto Alegre/RS
 * [Skydrones](https://skydrones.com.br) - Porto Alegre/RS
 * [Smart Sensing](https://smartsensingbrasil.com.br) - Piracicaba/SP
