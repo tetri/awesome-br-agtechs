@@ -153,7 +153,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * Kimera Biotecnologia - https://kimerabiotecnologia.com - Ribeirão Preto/SP
 * Krom (Cotton Droplet) - https://krom.com.br/cotton.html - São Paulo/SP
 * MetaQuantiON - https://metaquantion.com - Piracicaba/SP
-* Plate Form Biotecnologia - https://esalqtec.com.br/site/atuantena-area-de-biotecnologia-aplate-form-biotechnology-iniciasua-pre-incubacao-na-esalqtec - Piracicaba/SP
+* Plate Form Biotecnologia - https://www.esalqtec.com.br/site/atuante-na-area-de-biotecnologia-a-plate-form-biotechnology-inicia-sua-pre-incubacao-na-esalqtec/ - Piracicaba/SP
 * Regenera Stem Cells - https://regeneravet.com.br - Campinas/SP
 * RG Genética - https://rggenetica.com.br - Água Boa/MT
 * rheabiotech - https://rheabiotech.com.br - Campinas/SP
@@ -346,3 +346,132 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 | Usina Biologica | https://usinabiologica.com.br | Londrina/PR |
 | Vector Control | https://vectorcontrol.agr.br | Vinhedo/SP |
 | Zasso | https://zasso.com.br | Indaiatuba/SP |
+
+## Drones, Máquinas e Equipamentos
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| 3DGEO | 3dgeo.com.br | Curitiba/PR |
+| acquanativa | acquanativa.com.br | São Carlos/SP |
+| Acrux | acruxtech.com.br | São José dos Campos/SP |
+| Adroit Robotics | adroitrobotics.com | São Bernardo do Campo/SP |
+| Aero Agri | aeroagri.com.br | Piracicaba/SP |
+| Agricef | agricef.com.br | Paulínia/SP |
+| Agricotec | agricotec.com.br | Jaraguá do Sul/SC |
+| Agripulvtech | agripulvtech.com | Cosmópolis/SP |
+| Agromatic Automação e Controle | agromatic.com.br | Cascavel/PR |
+| AgroRaptor | agroraptor.com | Curitiba/PR |
+| Agrotecno | agrotecno.com.br | Lucas do Rio Verde/MT |
+| Agtech Academy | agtech.academy | Barueri/SP |
+| Ajagro | ajagro.agr.br | Canoas/RS |
+| Altamar | altamar.com.br | Santos/SP |
+| Alvaz | alvaz.com | Londrina/PR |
+| Arpac | arpacbrasil.com.br | São Leopoldo/RS |
+| Ases Corp | asescorp.com.br | Uberlândia/MG |
+| Astech | astech.eco.br | Petrópolis/RJ |
+| Avant Agro | avantagro.com.br | Goiânia/GO |
+| Bembras Agro | bemagro.com | Ribeirão Preto/SP |
+| BioLambda | biolambda.com | São Paulo/SP |
+| Campesino | instagram.com/dronecampesino | Orizona/GO |
+| chem4u | chem4u.com.br | Mauá/SP |
+| Dronagro | dronagro.com.br | Frederico Westphalen/RS |
+| Drone Ops | droneops.com.br | Brasília/DF |
+| Drones For Agro | drones4agro.com.br | Vacaria/RS |
+| Drop | dropagricultura.com.br | Piracicaba/SP |
+| DropScope (SprayX) | sprayx.com.br | São Carlos/SP |
+| duo automation | duo.com.br | Santa Bárbara d’Oeste/SP |
+| Eagle Power Tecnologia | facebook.com/eaglepowerdrones | Cascavel/PR |
+| Enalta (Rex) | linkedin.com/company/enalta | São Carlos/SP |
+| ENG - Soluções Tecnológicas LTDA - ME | engtecnologia.com | Campo Grande/MS |
+| EPI cont | epicont.com | Cambe/PR |
+| FieldPRO | fieldpro.com.br | São Paulo/SP |
+| Fishtag | fishtag.com.br | Mogi Guaçu/SP |
+| Fornari Industria | fornariindustria.com.br | Concórdia/SC |
+| G-Drones | g-drones.com.br | São Paulo/SP |
+| Geaap | geaap.com.br | Uberlândia/MG |
+| GeoDrones | geodrones.com.br | São Paulo/SP |
+| Gertech Soluções Industriais Ltda | gertech.ind.br | Chapecó/SC |
+| GND | gnd-br.com | São Paulo/SP |
+| Grupo Novo Olhar | gruponovoolhar.com | Campo Grande/MS |
+| Horse Machine Implementos Agrícolas | horsemachine.negocio.site | Criciúma/SC |
+| Horus Aeronaves | horusaeronaves.com | Florianópolis/SC |
+| Jetwind Brasil | jetwind.com.br | Barueri/SP |
+| Ligretech Industria e Comercio de Equipamentos Ltda | ligretech.com.br | Rio Negrinho/SC |
+| Linax | linax.com.br | Votuporanga/SP |
+| Maply Tecnologia | maply.io | Barueri/SP |
+| Model Works | modelworks.com.br | São Carlos/SP |
+| NCB Sistemas Embarcados | ncb.ind.br | São José dos Campos/SP |
+| NONG | nong.com.br | Brasília/DF |
+| Novarum Sky Tecnologia | novarumsky.com | Florianópolis/SC |
+| Nuvem UAV Indústria de Aeronaves | nuvemuav.com | Presidente Prudente/SP |
+| Plantário | plantario.com.br | Porto Alegre/RS |
+| Prisma Inox | prismainox.com.br | Belém/PA |
+| PRO SOLUS | prosolus.com | Campo Mourão/PR |
+| RK | brvant.com.br | Mogi das Cruzes/SP |
+| Rupert Indústria Aeronáutica LTDA | rupert.com.br | Caruaru/PE |
+| Saci Soluções | sacisolucoes.com.br | Santa Bárbara d’Oeste/SP |
+| Sar Drones | sardrones.com.br | Ribeirão Preto/SP |
+| Seed Rain | linkedin.com/company/seedrain | Rio de Janeiro/RJ |
+| Seive | seive.com.br Belo Horizonte/MG |
+| SF Geo - Sul Florestas | sulflorestas.com.br | Lages/SC |
+| SkyAgri | skyagri.com.br | Porto Alegre/RS |
+| Skydrones | skydrones.com.br | Porto Alegre/RS |
+| Smart Sensing | smartsensingbrasil.com.br | Piracicaba/SP |
+| Sollus | facebook.com/sollusmecanizacao | Assis/SP |
+| Tbit | tbit.com.br | Lavras/MG |
+| Tecnodrones | tecnodrones.com.br | Ponta Grossa/PR |
+| Tecnofacil | tecnofacil.foryou.digital | Marília/SP |
+| TerraTecno | linkedin.com/company/terratecno---tecnologiasagr%C3%Adcolas | São Paulo/SP |
+| Topview Agricultura Inteligente | linkedin.com/company/topviewagro | Chapecó/SC |
+| Velbrax Agro | velbrax.com | Ribeirão Preto/SP |
+| Verde Drone | verdedrone.com | Belo Horizonte/MG |
+| Volutech | volutech.com.br | Viçosa/MG |
+| Vortthex | vortthex.com | São Paulo/SP |
+| Xmobots | xmobots.com.br | São Carlos/SP |
+| YAK | yaktractors.com | Joinville/SC |
+| Yup Drones | yupdrones.com.br | Florianópolis/SC |
+
+## Economia compartilhada
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| AgriMates | agrimates.com.br | Campinas/SP |
+| Agrirent | facebook.com/AgriRentBR | Sinop/MT |
+| Alluagro | alluagro.com.br | Uberlândia/MG |
+| Bee Agro | beeagro.com.br | São Paulo/SP |
+| Comida Invisível | comidainvisivel.com.br | São Paulo/SP |
+| Fiboo | fiboo.com.br | Barreiras/BA |
+| Hiib | hiibtech.com | Goiânia/GO |
+| Maqfácil | maqfacil.wixsite.com/maqfacil | Cuiabá/MT |
+| MTGG Participações e Empreendimentos | mahoganyroraima.com.br | São Paulo/SP |
+| Plantecom | plantecom.com | Mamanguape/PB |
+| poupachef | poupachef.com | São Paulo/SP |
+| SharedEquips | comunidade.startse.com/in/sharedequips | São Paulo/SP |
+| Tour Gourmet | tourgourmet.com.br | Salvador/BA |
+| Tracktoor | tracktoor.com.br | Uberlândia/MG |
+| ViaRural | viarural.net.br | Porto Alegre/RS |
+
+## Gestão de resíduos agrícolas
+
+| Agtech | URL | Cidade/UF |
+|--|--|--|
+| 5ecos | 5ecos.com.br | Piracicaba/SP |
+| aterra | aterraambiental.com | Belo Horizonte/MG |
+| BioSource Company | cietec.org.br/project/biosourcecompany | São Paulo/SP |
+| BR Polen | brpolen.com.br | Rio de Janeiro/RJ |
+| Brotei | brotei.com.br | Florianópolis/SC |
+| Canteiro Soluções Ambientais | linkedin.com/in/eniogiulianogirao | Fortaleza/CE |
+| da Natureza | cietec.org.br/project/danatureza | São Paulo/SP |
+| DevCoffee | devcoffee.com.br | Leme/SP |
+| EcoBiotech | ecobiotech.com.br | Ribeirão Preto/SP |
+| Econtrole | econtrole.com | Viçosa/MG |
+| Eureciclo | eureciclo.com.br | São Paulo/SP |
+| Evoluma | evoluma.com | Tubarão/SC |
+| Grupo Vitae | vitaebrasil.com.br | Uberaba/MG |
+| Kemia Tratamento de Efluentes | kemia.com.br | Chapecó/SC |
+| Recycle Solutions | recyclesolutions.co | Petrolina/PE |
+| Residuall | residuall.com Belo | Horizonte/MG |
+| Residus | residus.com.br | Cuiabá/MT |
+| RSU Brasil | rsubrasil.com.br | São Paulo/SP |
+| Tec3geo | tec3geo.com.br | São Paulo/SP |
+| VG Residuos | vgresiduos.com.br | Belo Horizonte/MG |
