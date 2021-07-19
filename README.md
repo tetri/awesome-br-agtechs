@@ -408,7 +408,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Seive](https://seive.com.br) - 📌  Belo Horizonte/MG
 * [SF Geo - Sul Florestas](https://sulflorestas.com.br) - 📌 Lages/SC
 * [SkyAgri](https://skyagri.com.br) - 📌 Porto Alegre/RS
-* [Skydrones](https://skydrones.com.br) - 📌 Porto Alegre/RS
+* [Skydrones](https://skydrones.com.br) - A SkyDrones é referência na América Latina no desenvolvimento, produção e comercialização de RPAS. - 📌 Porto Alegre/RS
 * [Smart Sensing](https://smartsensingbrasil.com.br) - 📌 Piracicaba/SP
 * [Sollus](https://facebook.com/sollusmecanizacao) - 📌 Assis/SP
 * [Tbit](https://tbit.com.br) - We Improve Perfomances - 📌 Lavras/MG
@@ -451,7 +451,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Brotei](https://brotei.com.br) - 📌 Florianópolis/SC
 * [Canteiro Soluções Ambientais](https://linkedin.com/in/eniogiulianogirao) - 📌 Fortaleza/CE
 * [da Natureza](https://cietec.org.br/project/danatureza) - 📌 São Paulo/SP
-* [DevCoffee](https://devcoffee.com.br) - 📌 Leme/SP
+* [DevCoffee](https://devcoffee.com.br) - Fale pelo whatsapp Agende uma ligação Abra um chamado Fale com um consultor Software de Gestão Empresarial Completo O BRERP da devCoffee é completo, simples, ágil e pode ser personalizado.  Desenvolvido para atender empresas de pequeno, médio e grande porte. ADQUIRA SAIBA MAIS Anterior Próximo BRERP: COMPLETO E TOTALMENTE ONLINE Conte com um software ERP […] - 📌 Leme/SP
 * [EcoBiotech](https://ecobiotech.com.br) - ECOBIOTECH - Biotecnoclogia e Automação. - 📌 Ribeirão Preto/SP
 * [Econtrole](https://econtrole.com) - 📌 Viçosa/MG
 * [Eureciclo](https://eureciclo.com.br) - Certificamos a logística reversa de embalagens pós consumo, gerando incentivos para elevar as taxas de reciclagem no país. - 📌 São Paulo/SP
@@ -573,7 +573,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [BIPP](https://bipp.com.br) - 📌 Teresina/PI
 * [BMS Softwares](https://grupobms.com.br/winfit-saat) - 📌 Viçosa/MG
 * [BRFLOR](https://brflor.com.br) - 📌 Piracicaba/SP
-* [Brid Soluções](https://bridsolucoes.com.br) - 📌 Londrina/PR
+* [Brid Soluções](https://bridsolucoes.com.br) - Visite o post para mais. - 📌 Londrina/PR
 * [Capril Virtual](https://caprilvirtual.com.br) - 📌 Porto Alegre/RS
 * [CertifiCafé](https://certificafe.com.br) - 📌 Manhuaçu/MG
 * [Clube Agro Brasil](https://clubeagro.com.br) - O Clube Agro é o primeiro programa de relacionamento multimarcas do agronegócio, que conecta produtores, canais de vendas e marcas do agro. Cadastre-se. - 📌 Barra Bonita/SP
@@ -846,7 +846,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [mititech.agro](https://mititechagro.com.br) - A mititech.agro é o seu atestado de produtividade agrícola para seguro e crédito rural - 📌 São Paulo/SP
 * [Mootalk](https://milk.farmin.com.br) - Software para gestão pecuária. Deixe com a gente o trabalho chato e aproveite melhor o seu tempo para se concentrar em seu negócio. - 📌 Dois Vizinhos/PR
 * [Multibovinos](https://multbovinos.com.br) - Gestão precisa e descomplicada da sua fazenda - 📌 Goiânia/GO
-* [Mwova](https://mwova.com.br) - 📌 Vitória/ES
+* [Mwova](https://mwova.com.br) - A Mwova é uma solução para agricultores e produtores rurais que não conseguem fazer o controle de custo de suas propriedades. - 📌 Vitória/ES
 * [MyFarm](https://myfarm.com.br) - O MyFarm é um software de Gestão Agrícola desenvolvido para ajudar produtores rurais que desejam melhorar o gerenciamento de suas fazendas. - 📌 Goiânia/GO
 * [N2agro](https://n2agro.com.br) - 📌 Guarantã do Norte/MT
 * [NETResiduos](https://netresiduos.com.br) - 📌 Belo Horizonte/MG
@@ -866,7 +866,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Rastrovet](https://rastrovet.com.br) - 📌 Maracaju/MS
 * [ReproDEZ](https://reprodez.com.br) - Melhor Sistema de Gestão de Reprodução Animal do País - 📌 Uberlândia/MG
 * [Reprosis](https://reprosis.com.br) - 📌 São Paulo/SP
-* [Rezolve](https://rezolve.com.br) - 📌 Florianópolis/SC
+* [Rezolve](https://rezolve.com.br) - Login para o serviço cloud provido pela Rezolve. - 📌 Florianópolis/SC
 * [Salvo Soluções Digitais](https://salvosd.com.br) - 📌 Lajes/SC
 * [Saveadd](https://saveadd.com.br) - 📌 São Paulo/SP
 * [Scadiagro](https://scadiagro.com.br) - 📌 Rio Grande/RS
@@ -921,7 +921,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Rúmina](https://rumina.com.br) - 📌 Belo Horizonte/MG
 * [SAGA - Sistema Antifurto para Gado](https://linkedin.com/company/sagacattle-anti-theft-system) - 📌 Santa Rita do Sapucaí/MG
 * [Saveway](https://saveway.com.br) - 📌 Campinas/SP
-* [SensorVision](https://sensorvision.com.br) - 📌 Paulínia/SP
+* [SensorVision](https://sensorvision.com.br) - SensorVision Inteligência Embarcada - 📌 Paulínia/SP
 * [Tauflow](https://tauflow.com) - Simulação computacional 3D. Saiba mais sobre protótipos, consultoria em CFD e cursos de OpenFOAM. - 📌 Campinas/SP
 * [Tecsus](https://tecsus.com.br) - 📌 São José dos Campos/SP
 * [Velos](https://velos.ag) - O REX é um sistema focado em telemetria agrícola que contribui para um ótimo aproveitamento de dados e para uma gestão mais precisa das operações agrícolas, - 📌 São Carlos/SP
@@ -1058,7 +1058,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Goodsoy / Belive](https://goodsoy.com.br) - 📌 Uberaba/MG
 * [GranMoar](https://linkedin.com/company/granmoar) - 📌 Belo Horizonte/MG
 * [GROW FOODS](https://growfoods.com.br) - 📌 Porto Alegre/RS
-* [GRÃO+GRÃO VEGAN FOOD](https://graomaisgrao.com.br) - 📌 Rio de Janeiro/RJ
+* [GRÃO+GRÃO VEGAN FOOD](https://graomaisgrao.com.br) - GRÃO+GRÃO - 📌 Rio de Janeiro/RJ
 * [Gula Fit Food](https://gulafit.com.br) - Comida Saudável - Fit - Diet - LowCarb - Veg - Tudo sem: glúten - lactose - açúcar - 📌 Salvador/BA
 * [H2life](https://h2lifesorvetes.com.br) - 📌 Santo André/SP
 * [Hakkuna](https://hakkuna.com) - 📌 Ribeirão Preto/SP
@@ -1189,7 +1189,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [STEVIA 12](https://stevia12.com.br) - É fácil registrar um domínio e criar seu site. Este site está em construção e hospedado na KingHost, hospedagem de sites e e-mails confiável. - 📌 São Paulo/SP
 * [Strumpf](https://strumpf.com.br) - Original e prevalecendo o sabor, as receitas da Strumpf vão surpreender o seu paladar! Vários opções em molhos para uma experiência gastronômica! - 📌 Itu/SP
 * [Super Vegan](https://superveganchoc.com.br) - 📌 São Vicente/SP
-* [SÓ](https://sosnacks.com.br) - 📌 São Paulo/SP
+* [SÓ](https://sosnacks.com.br) - Só.Snacks é uma empresa que faz snacks de frutas para crianças e sua familia. Lanches sem gluten, sem açucar - 100% natural! Brincar e comer fruta no mesmo tempo! - 📌 São Paulo/SP
 * [TaoKombucha](https://taokombucha.com) - 📌 Porto Alegre/RS
 * [TARTINER](https://tartiner.com.br) - Pastas de nuts e de coco - 📌 Rio de Janeiro/RJ
 * [TEATOXME](https://teatoxme.com.br) - Chás funcionais para corpo, mente e alma. Desenvolvemos blends exclusivos para fazer parte do seu dia-a-dia e acessórios para a sua rotina e o seu ritual. - 📌 São Paulo/SP
@@ -1207,7 +1207,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Urban Remedy](https://urbanremedy.com.br) - URBAN REMEDY - 100% plant based - ultra fresco e nutritivo - sem glúten ou lactose. Saladas, sucos prensados a frio, sobremesas veganas, snacks ,.. deliciosos!! - 📌 São Paulo/SP
 * [Utropia](https://facebook.com/umautropia) - 📌 São Paulo/SP
 * [Veganah Foods](https://veganah.com.br) - 📌 São Paulo/SP
-* [Veganway Nutrition](https://veganway.com.br) - 📌 Florianópolis/SC
+* [Veganway Nutrition](https://veganway.com.br) - Suplementos Veganos de alta qualidade PERFEITOS PARA ATLETAS E ESPORTISTAS QUE BUSCAM UMA SUPLEMENTAÇÃO SAUDÁVEL Nutritional Yeast PROTEÍNAS VEGETAIS Nutrição esportiva... - 📌 Florianópolis/SC
 * [Vegpet](https://vegpet.com.br) - A VegPet atua desde 2013 comercializando produtos vegetarianos e veganos para pets. Já processamos mais de 30 mil pedidos com 98% das avaliações excelentes, ou boas. Pronta entrega para todo o Brasil. - 📌 São Paulo/SP
 * [Veguita](https://basicoplantfood.com.br) - 📌 Rio de Janeiro/RJ
 * [Vegway Foods](https://vegwayfoods.com.br) - 📌 Jundiaí/SP
@@ -1291,7 +1291,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 
 * [Agttec Inovação](https://agttec.com.br) - 📌 Dois Córregos/SP
 * [Aliança da Terra / Produzindo Certo](https://produzindocerto.com.br) - Produzindo Certo | Página inicial - Produzindo Certo - 📌 Goiânia/GO
-* [Amazonfruitfood](https://amazonfruitsofficial.com) - 📌 Castanhal/PA
+* [Amazonfruitfood](https://amazonfruitsofficial.com) - O estilo de vida da Amazônia ao alcance de suas mãos. Compartilhando o estilo de vida e o amor do Amazon Fruits Official através do nosso Instagram oficial. Compartilhe seu amor com #AmazonFruitsOficial. - 📌 Castanhal/PA
 * [Anubz](https://sid.anubz.io) - O Sistema de Identificação Digital SID Anubz é uma solução completa para catalogar e identificar árvores, que disponibiliza suas informações para qualquer dispositivo conectado a internet através de uma plataforma exclusiva. - 📌 Campinas/SP
 * [Apse Cosmetics](https://apsecosmetics.com.br) - Apse Cosmetics | Cosméticos Veganos, Liberador Low Nopoo e para todos os tipos de Cabelos. - 📌 Vitória/ES
 * [Aquavale](https://linkedin.com/in/woshinghtongervaz-0a85906b) - 📌 Jaboticabal/SP
@@ -1394,7 +1394,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [AgriHome](https://agrihome.com.br) - 📌 Passo Fundo/RS
 * [AgriMart](https://agrimart.com.br) - 📌 São Paulo/SP
 * [AgriPad](https://agripad.com.br) - 📌 São Paulo/SP
-* [Agrishare](https://agrishare.com.br) - 📌 São Paulo/SP
+* [Agrishare](https://agrishare.com.br) - Lojas em Destaque Oportunidades Adicionados Recentemente Peças Tratores Prestação de Serviços - 📌 São Paulo/SP
 * [Agritrade](https://agritrade.com.br) - 📌 São Sebastião do Paraíso/MG
 * [Agrobatida](https://agrobatida.com.br) - 📌 Aracaju/SE
 * [Agrobooks](https://agrobooks.com.br) - 📌 São Paulo/SP
@@ -1411,7 +1411,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Boi na Linha](https://boinalinha.com) - Boi na Linha é um aplicativo para compra e venda de gado! Com o app você poderá anunciar seu rebanho ou comprar lotes anunciados por outros usuários. - 📌 São Paulo/SP
 * [BPSS](https://bpss.com.br) - 📌 São Paulo/SP
 * [Busca Terra](https://buscaterra.com.br) - O Busca Terra é especializado em informação fundiária. As informações de imóveis rurais podem ser aplicadas para regularização, obtenção de crédito rural e outros. - 📌 Campinas/SP
-* [Campear](https://campear.com) - 📌 Porto Alegre/RS
+* [Campear](https://campear.com) - A Campear é a plataforma de marketplace do Agro com o que existe de mais moderno em tecnologia, enquanto mantém o contato humano com o produtor e indústria. - 📌 Porto Alegre/RS
 * [CargoX](https://cargox.com.br) - 📌 São Paulo/SP
 * [CBC Agronegocios](https://cbcagronegocios.com.br) - CBC Agronegócios, o maior site de comercialização do Agronegócio. Milhares de empresas negociando Grãos (Milho, Soja, Sorgo, e outros), Químicos, Óleos e Nutrição Animal. Acesse! - 📌 São Paulo/SP
 * [Central do Agro](https://centraldoagro.com.br) - 📌 Lages/SC
@@ -1565,7 +1565,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Alecrim Integrais](https://alecrimintegrais.com.br) - 📌 Leme/SP
 * [Alecrim](https://linkedin.com/company/alecrim) - 📌 São Paulo/SP
 * [Alfred Delivery](https://alfreddelivery.com) - Você sempre quis alguém que fizesse tudo pro você. O Alfred pode buscar o que você quiser, onde quiser e levar para você! - 📌 Ribeirão Preto/SP
-* [Allps Alimentos Saudáveis](https://allps.com.br) - 📌 Caxias do Sul/RS
+* [Allps Alimentos Saudáveis](https://allps.com.br) - Allps Alimentos Saudáveis - 📌 Caxias do Sul/RS
 * [Almoço Grátis](https://almocogratis.com.br) - Sua Opinião vale uma Refeição. Coma nos melhores restaurantes da cidade, dê sua opinião e receba o reembolso de volta.. - 📌 Vitória/ES
 * [Amo Delivery](amo.delivery) - 📌 Chapecó/SC
 * [Appedidos](https://appedidos.com.br) - Peça comida pela internet! Conheça a appedidos, a plataforma de delivery online. Peça agora do seu restaurante favorito através do seu celular ou computador, é rápido, fácil e grátis. - 📌 Araçatuba/SP
