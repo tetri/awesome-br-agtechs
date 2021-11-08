@@ -841,7 +841,7 @@ O mapeamento feito pelo **Radar Agtech** contém informações captadas diretame
 * [Livefarm Tecnologia Agropecuaria Ltda](https://livefarm.com.br) - 📌 São José do Rio Preto/SP
 * [M2Agro](https://facebook.com/m2agro) - 📌 Blumenau/SC
 * [MarketUP](https://marketup.com) - MarketUP é o Sistema de gestão grátis para micro e pequenas empresas: NFe, NFCe, PDV, Loja Virtual, ERP, MRP e mais. Tudo Online e de graça. - 📌 São Paulo/SP
-* [Master Planti](https://masterplanti.com.br) - 📌 Ribeirão Preto/SP
+* [Masterplanti](https://masterplanti.com.br) - Empresa de software para cultivos intensivos e/ou especializados. Possui uma solução de gestão para toda a cadeia produtiva, de laboratórios de multiplicação de tecidos vegetais até packing house, contando com rastreabilidade, planejamento e custos produtivos. - 📌 Curitiba/PR
 * [Milk Plan](https://milkplan.com.br) - A MilkPlan realizada consultoria especializada em gestão zootécnica e financeira de fazendas de leite! Com ferramentas para auxílio no atendimento das Instruções Normativas 76 e 77. Atuando também com o programa mais Leite Saudável! - 📌 Cruzíla/MG
 * [mititech.agro](https://mititechagro.com.br) - A mititech.agro é o seu atestado de produtividade agrícola para seguro e crédito rural - 📌 São Paulo/SP
 * [Mootalk](https://milk.farmin.com.br) - Software para gestão pecuária. Deixe com a gente o trabalho chato e aproveite melhor o seu tempo para se concentrar em seu negócio. - 📌 Dois Vizinhos/PR
